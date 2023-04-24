@@ -17,14 +17,6 @@ but also fully functional with our features!
 
    <b> !Contact me for your private content files.</b> 
 
-   <b>Payment Options with Cryptocurrencies</b>
-
-    USDT (TETHER) : TXf4MTvzKFCkpD9dKgmpSfGEbGNZKztjyU
-    Use Network : TRON(TRC20)
-   
-    Bitcoin (BTC) : 18EGoYyZNRzmmLDznQ2B92hW2P1vyQQU7r
-    Use Network : Bitcoin
-
    <p dir="auto">Telegram : <a href="https://t.me/ByteRain" rel="nofollow">https://t.me/ByteRain</a></p>
    <p dir="auto">Telegram Group : <a href="https://t.me/RainProtectorOfficial" rel="nofollow">https://t.me/RainProtectorOfficial</a></p>
    <p dir="auto">Skype : <a href="https://join.skype.com/invite/JSEIQrUeJHpC" rel="nofollow">https://join.skype.com/invite/JSEIQrUeJHpC</a></p>
