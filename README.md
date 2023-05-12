@@ -5,7 +5,7 @@ Because Rain Protector strives to provide the best crypting service
 to our customer, we have a team on making sure it's not only FUD.
 but also fully functional with our features!
 
-<b>Features:</b><br>
+<b>Features</b><br>
 ./ Private crypter coded from scratch<br>
 ./ Windows Defender bypass (tested with Quasar & others)<br>
 ./ UAC Bypass<br>
@@ -15,8 +15,8 @@ but also fully functional with our features!
 ./ Free AV Scan included on every crypt<br>
 ./ See a list of all your crypted files.<br>
 
-   <b> !Contact me for your private content files.</b> 
-
+   <b> Education►</b> 
+Rain Protector Crypter Code Sources with VB6 & .Net Malware Developer Code Education Videos & Special Techniques & Tools Use 'Hex Editor, Assembly(OllyBdg) etc.'
    <p dir="auto">Telegram : <a href="https://t.me/ByteRain" rel="nofollow">https://t.me/ByteRain</a></p>
    <p dir="auto">Telegram Group : <a href="https://t.me/RainProtectorOfficial" rel="nofollow">https://t.me/RainProtectorOfficial</a></p>
    <p dir="auto">Skype : <a href="https://join.skype.com/invite/JSEIQrUeJHpC" rel="nofollow">https://join.skype.com/invite/JSEIQrUeJHpC</a></p>
