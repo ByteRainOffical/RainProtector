@@ -1,4 +1,7 @@
-![Image description](https://i.im.ge/2023/03/05/76Mgi4.Rain-Protector.png)
+![Image description](https://i.im.ge/2023/05/24/h1BprC.1.png)
+![Image description](https://i.im.ge/2023/05/24/h1GmPY.2.png)
+
+
 <b> Why are we the better choice?</b> 
 
 Because Rain Protector strives to provide the best crypting service
@@ -6,14 +9,13 @@ to our customer, we have a team on making sure it's not only FUD.
 but also fully functional with our features!
 
 <b>Features</b><br>
-./ Private crypter coded from scratch<br>
+./ Kaspersky Endpoint [EDR] exploit<br>
 ./ Windows Defender bypass (tested with Quasar & others)<br>
-./ UAC Bypass<br>
 ./ 32 & 64 Bit support<br>
 ./ Works with net and native files<br>
+./ Inject Options (RegAsm & MsBuild)<br>
+./ UAC Bypass<br>
 ./ Startup settings "Hidden startup (schtasks)" & "Normal startup"<br>
-./ Free AV Scan included on every crypt<br>
-./ See a list of all your crypted files.<br>
 
    <b> Education►</b> 
 Rain Protector Crypter Code Sources with VB6 & .Net Malware Developer Code Education Videos & Special Techniques & Tools Use 'Hex Editor, Assembly(OllyBdg) etc.'
