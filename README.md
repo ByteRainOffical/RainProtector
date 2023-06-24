@@ -24,4 +24,4 @@ Rain Protector Crypter Code Sources with VB6 & .Net Malware Developer Code Educa
    <p dir="auto">Skype : <a href="https://join.skype.com/invite/JSEIQrUeJHpC" rel="nofollow">https://join.skype.com/invite/JSEIQrUeJHpC</a></p>
    <p dir="auto">Vimeo : <a href="https://vimeo.com/byterain" rel="nofollow">https://vimeo.com/byterain</a></p>
    <p dir="auto">YouTube "Offical Channel" : <a href="https://www.youtube.com/@byterain" rel="nofollow">https://www.youtube.com/@byterain</a></p>
-   <p dir="auto">YouTube "Aleternative Channel" : <a href="https://www.youtube.com/@byterainfudcrypter" rel="nofollow">https://www.youtube.com/@byterainfudcrypter1</a></p>
+   <p dir="auto">YouTube "Aleternative Channel" : <a href="https://www.youtube.com/@byterainfudcrypter1" rel="nofollow">https://www.youtube.com/@byterainfudcrypter</a></p>
