@@ -16,6 +16,7 @@ but also fully functional with our features!
 ./ Inject Options (RegAsm & MsBuild)<br>
 ./ UAC Bypass<br>
 ./ Startup settings "Hidden startup (schtasks)" & "Normal startup"<br>
+./ You can add a (xlsx, pdf, doc) file on your Payload
 
    <b> Education►</b> 
 Rain Protector Crypter Code Sources with VB6 & .Net Malware Developer Code Education Videos & Special Techniques & Tools Use 'Hex Editor, Assembly(OllyBdg) etc.'
